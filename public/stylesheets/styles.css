@@ -1,0 +1,18 @@
+.row div.col {
+  /* margin: 20px; */
+  margin-bottom: 20px;
+}
+
+#gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: top;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  background-color: darkgray;
+  width: 100%;
+  padding: 10px;
+}
